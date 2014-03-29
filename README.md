@@ -31,6 +31,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 ## Mining pools
 - https://www.nonstopmine.com
 - http://isra.xpoolcoin.com/
+- http://isr.lowfeemining.org
+- http://isr.crypto-hamsters.com
 
 ### P2Pool nodes (hash rate shared by all nodes)
 
