@@ -38,6 +38,8 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ## Exchanges
 
+- [Bittrex](https://www.bittrex.com/Market/Index?MarketName=BTC-ISR)
+
 ## Trading Posts
 
 ## Directories (sellers)
