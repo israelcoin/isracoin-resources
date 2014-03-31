@@ -29,16 +29,18 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Hebrew](http://isracoin.org.il/)
 
 ## Mining pools
-- https://www.nonstopmine.com
+- http://isr.nonstopmine.com/
 - http://isra.xpoolcoin.com/
 - http://isr.lowfeemining.org
 - http://isr.crypto-hamsters.com
 
 ### P2Pool nodes (hash rate shared by all nodes)
+- http://www.omargpools.ca:1948/ ( 1% fee )
 
 ## Exchanges
 
 - [Bittrex](https://www.bittrex.com/Market/Index?MarketName=BTC-ISR)
+- [coin-swap.net](https://coin-swap.net/market/ISR/BTC)
 
 ## Trading Posts
 
