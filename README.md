@@ -36,6 +36,7 @@ For any suggestions, please submit a pull request. Additions should be appended 
 
 ### P2Pool nodes (hash rate shared by all nodes)
 - http://www.omargpools.ca:1948/ ( 1% fee )
+- http://isr.minelite.co.in:1948/ (1% fee )
 
 ## Exchanges
 
