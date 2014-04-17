@@ -29,7 +29,6 @@ For any suggestions, please submit a pull request. Additions should be appended 
 - [Hebrew](http://isracoin.org.il/)
 
 ## Mining pools
-- http://isr.nonstopmine.com/
 - http://isra.xpoolcoin.com/
 - http://isr.lowfeemining.org
 - http://isr.crypto-hamsters.com
